@@ -1,0 +1,26 @@
+{
+  "name": "react-hooks-debug",
+  "version": "1.0.0",
+  "description": "Development tool to preview hooks state on Redux DevTools extension",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aldosota/react-hooks-debug.git"
+  },
+  "keywords": [
+    "React",
+    "hooks",
+    "useState",
+    "Redux",
+    "DevTools"
+  ],
+  "author": "Aldo Sota",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aldosota/react-hooks-debug/issues"
+  },
+  "homepage": "https://github.com/aldosota/react-hooks-debug#readme"
+}
