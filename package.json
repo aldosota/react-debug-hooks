@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/aldosota/react-hooks-debug/issues"
   },
-  "homepage": "https://github.com/aldosota/react-hooks-debug#readme"
+  "homepage": "https://github.com/aldosota/react-hooks-debug#readme",
+  "dependencies": {
+    "react": "^16.13.1"
+  }
 }
