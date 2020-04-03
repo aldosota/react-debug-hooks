@@ -1,6 +1,6 @@
 {
   "name": "react-debug-hooks",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Development tool to preview hooks state on Redux DevTools extension",
   "main": "src/index.js",
   "scripts": {
