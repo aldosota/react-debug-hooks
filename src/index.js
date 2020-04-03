@@ -1,5 +1,5 @@
-import React from 'react'
-export default () => {
+
+module.exports = React => {
     if(window.__REDUX_DEVTOOLS_EXTENSION__) {
         const devTools = window.__REDUX_DEVTOOLS_EXTENSION__.connect({name: "Hooks"})
         React.oldUseState = React.useState
