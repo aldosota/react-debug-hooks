@@ -14,7 +14,7 @@ npm i react-debug-hooks
 
 ## Usage
 
-```React
+```JavaScript
 import React from 'react'
 import ReactDOM from 'react-dom'
 import reactDebugHooks from 'react-debug-hooks'
